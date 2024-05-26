@@ -10,7 +10,7 @@ ciones. Se presenta un modelo de edificio de múltiples pisos como un sistema ma
  sísmicos. La dinámica del sistema se modela y se analiza tanto en condiciones de lazo abierto como con control aplicado, mostrando que
  la implementación de controladores puede mitigar significativamente los efectos adversos de las vibraciones resonantes en las estructuras.
 
- Articulo completo en el siguiente [enlace]()
+ Articulo completo en el siguiente [enlace](https://github.com/manuelsolan-o/ModelacionEdificio/blob/main/Art%C3%ADculo_FINAL_reto_edificio.pdf)
 ## Simulación de un edificio con y sin control
 
 <p align="center">
